@@ -83,7 +83,3 @@ Les contributeurs les plus actifs auront leur nom mentionné dans la section "Re
 ## 🙏 Remerciements
 
 Merci à [Nouvy](https://github.com/Nouvy) et [fabrice](https://github.com/fabriceHategekimana) pour leur soutien et leurs contributions à ce projet.
-# X-clone
-# X-clone
-# X-clone
-# X-clone
